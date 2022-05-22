@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.2fbaf00f.css",
-    "main.js": "/static/js/main.890b6012.js",
+    "main.js": "/static/js/main.0f3d6f8d.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/codeEditor.png": "/static/media/codeEditor.ba9458794dca1c746ef2.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Zhiqiang-Wang-Resume-a.pdf": "/static/media/Zhiqiang-Wang-Resume-a.2d331ab06ba17d6bb890.pdf",
+    "static/media/Zhiqiang-Wang-Resume.pdf": "/static/media/Zhiqiang-Wang-Resume.2d331ab06ba17d6bb890.pdf",
     "static/media/hospital.png": "/static/media/hospital.5048a0742e3c94e28871.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.2fbaf00f.css.map": "/static/css/main.2fbaf00f.css.map",
-    "main.890b6012.js.map": "/static/js/main.890b6012.js.map",
+    "main.0f3d6f8d.js.map": "/static/js/main.0f3d6f8d.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fbaf00f.css",
-    "static/js/main.890b6012.js"
+    "static/js/main.0f3d6f8d.js"
   ]
 }
