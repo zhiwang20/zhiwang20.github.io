@@ -45,11 +45,11 @@ function App() {
           <Route path="*" element={<Navigate to="/"/>} /> */}
           {/* local server will not work, but it will be working when hosted on github
           type https://zhiwang20.github.io/#/project will work*/}
-          <Route path="/" element={<Home />} />
+          <Route path="#/" element={<Home />} />
           <Route path="#/project" element={<Projects />} />
           <Route path="#/about" element={<About />} />
           <Route path="#/resume" element={<Resume />} />
-          <Route path="*" element={<Navigate to="/" />} />{" "}
+          {/* <Route path="*" element={<Navigate to="/" />} /> */}
           {/* when page not found */}
         </Routes>
         <Footer />
